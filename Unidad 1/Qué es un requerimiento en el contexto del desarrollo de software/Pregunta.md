@@ -1,6 +1,6 @@
-En el contexto del desarrollo de software, un requerimiento, o más precisamente un "requisito", se define como una especificación de lo que debe ser implementado. Son descripciones de cómo el sistema debe comportarse, o de una propiedad del sistema o atributo. Pueden representar una limitación en el proceso de desarrollo del sistema【10†source】.
+# ¿Qué es un requerimiento en el contexto del desarrollo de software?
+En el contexto del desarrollo de software, un requerimiento, o más precisamente un "requisito", se define como una especificación de lo que debe ser implementado. Son descripciones de cómo el sistema debe comportarse, o de una propiedad del sistema o atributo. Pueden representar una limitación en el proceso de desarrollo del sistema.
 
-### Desarrollo
 Los requisitos en el desarrollo de software son fundamentales para guiar el proceso de creación y asegurar que el producto final cumple con las necesidades y expectativas del usuario. Estos requisitos pueden ser funcionales, describiendo las funciones específicas del software, o no funcionales, relacionados con la seguridad, rendimiento, o usabilidad.
 
 ### Mindmap
