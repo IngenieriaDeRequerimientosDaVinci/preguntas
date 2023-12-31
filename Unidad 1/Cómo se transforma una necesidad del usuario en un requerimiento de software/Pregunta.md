@@ -1,33 +1,34 @@
-La transformación de una necesidad del usuario en un requerimiento de software es un proceso complejo que forma parte de la ingeniería de requerimientos (InRe). Este proceso incluye:
+Las actividades asociadas a la ingeniería de requerimientos (InRe) son esenciales para el proceso de desarrollo de software. Estas actividades incluyen:
 
-1. **Estudio de las Necesidades del Usuario**: Implica entender y definir las necesidades o condiciones que deben satisfacerse, lo que incluye tanto requisitos de sistema de hardware como de software【28†source】.
-
-2. **Refinamiento de Requisitos**: Una vez identificadas, estas necesidades se estudian y refinan para convertirlas en requisitos específicos del sistema【28†source】.
-
-3. **Creación de Casos de Uso y Historias de Usuario**: Estos elementos ayudan a detallar lo que el usuario será capaz de hacer con el sistema, proporcionando una visión más clara de los requisitos necesarios【29†source】.
-
-4. **Colaboración y Descubrimiento Creativo**: No siempre los usuarios saben exactamente lo que necesitan. La identificación de requisitos implica trabajar en colaboración, abrirse a nuevas ideas, aplicar esfuerzo creativo, trabajar en equipo y hacer preguntas que guíen la búsqueda de soluciones adecuadas【30†source】.
+1. **Descubrir o Elicitar (Elicitation)**: Utilización de diferentes técnicas para obtener información sobre los requisitos de los stakeholders【36†source】.
 
 ### Desarrollo
-Este proceso es iterativo y colaborativo, involucrando a diferentes stakeholders. Requiere un entendimiento profundo de las necesidades del usuario, así como la capacidad de traducir estas necesidades en especificaciones técnicas que puedan ser implementadas en el software.
+- **Análisis de Requisitos**: Después de la elicitar, los requisitos deben ser analizados para comprender su impacto, viabilidad y priorización.
+- **Documentación de Requisitos**: Los requisitos recopilados y analizados se documentan en una especificación formal.
+- **Validación de Requisitos**: Se verifica que los requisitos documentados cumplan con las necesidades y expectativas de los usuarios y sean coherentes con los objetivos del sistema.
 
 ### Mindmap
 ```mermaid
 graph LR
-    A[Transformación de Necesidades a Requerimientos] --> B[Estudio de Necesidades del Usuario]
-    A --> C[Refinamiento de Requisitos]
-    A --> D[Creación de Casos de Uso y Historias de Usuario]
-    A --> E[Colaboración y Descubrimiento Creativo]
-    B --> F[Entender y Definir Necesidades]
-    C --> G[Detallar Requisitos Específicos]
-    D --> H[Detallar Funcionalidades del Usuario]
-    E --> I[Trabajo en Equipo y Preguntas Guiadas]
+    A[Actividades de Ingeniería de Requisitos] --> B[Descubrimiento o Elicitación]
+    A --> C[Análisis de Requisitos]
+    A --> D[Documentación de Requisitos]
+    A --> E[Validación de Requisitos]
+    B --> F[Técnicas de Obtención de Información]
+    C --> G[Comprensión de Impacto y Priorización]
+    D --> H[Especificación Formal de Requisitos]
+    E --> I[Verificación de Cumplimiento y Coherencia]
 ```
 
 ### Ejemplo
-Imaginemos que se desea desarrollar una aplicación de pedidos de comida a domicilio. Inicialmente, los usuarios pueden expresar la necesidad de "ordenar comida fácilmente". A través de la ingeniería de requerimientos, esta necesidad se traduce en requisitos concretos como "la aplicación debe permitir a los usuarios seleccionar restaurantes, elegir platos y realizar pagos en línea".
+Consideremos el desarrollo de un software de contabilidad empresarial:
+- **Elicitación**: Realizar entrevistas y encuestas con contadores y gerentes financieros para identificar sus necesidades.
+- **Análisis**: Determinar la prioridad de los requisitos como la generación de informes financieros automatizados.
+- **Documentación**: Escribir una especificación detallada de las funcionalidades requeridas.
+- **Validación**: Revisar los requisitos con los usuarios finales para asegurarse de que satisfagan sus necesidades.
 
 ### Glosario
-- **Casos de Uso**: Descripciones de cómo un usuario interactuará con un sistema para lograr un objetivo específico.
-- **Historias de Usuario**: Breves descripciones de una característica o funcionalidad del sistema desde la perspectiva del usuario final.
-- **Refinamiento de Requisitos**: Proceso de detallar y clarificar los requisitos iniciales para asegurarse de que sean completos y realizables.
+- **Elicitación**: Proceso de recolección de requisitos a través de la comunicación con los stakeholders.
+- **Análisis de Requisitos**: Evaluación y priorización de los requisitos recopilados.
+- **Documentación de Requisitos**: Registro formal de los requisitos de un sistema.
+- **Validación de Requisitos**: Confirmación de que los requisitos satisfacen las necesidades y expectativas de los usuarios.
