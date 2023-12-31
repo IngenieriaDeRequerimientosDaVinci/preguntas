@@ -1,3 +1,5 @@
+# ¿Cómo se puede asegurar que los requerimientos reflejen fielmente las necesidades del usuario?
+
 Para asegurar que los requerimientos reflejen fielmente las necesidades del usuario en proyectos de software, es crucial seguir un proceso detallado y colaborativo:
 
 1. **Trabajo en Colaboración**: Es esencial trabajar en colaboración con los usuarios y stakeholders, abriéndose a nuevas ideas, aplicando esfuerzo creativo, trabajando en equipo y haciendo preguntas que guíen la búsqueda de requisitos. Este enfoque ayuda a descubrir necesidades que no son evidentes inicialmente【66†source】.
@@ -28,3 +30,7 @@ En un proyecto para desarrollar un sistema de gestión de citas médicas, el equ
 - **Colaboración**: Trabajo conjunto entre diferentes partes interesadas para alcanzar un objetivo común.
 - **Consensuar Requisitos**: Proceso de llegar a un acuerdo entre todas las partes interesadas sobre los requisitos del sistema.
 - **Dominio del Problema**: Entorno y contexto específico en el que se desarrolla y opera un sistema.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20se%20puede%20asegurar%20que%20los%20requerimientos%20reflejen%20fielmente%20las%20necesidades%20del%20usuario/Evaluador.ipynb)

@@ -1,6 +1,8 @@
-Las actividades asociadas a la ingeniería de requerimientos (InRe) son esenciales para el proceso de desarrollo de software. Estas actividades incluyen:
+# ¿Cómo se transforma una necesidad del usuario en un requerimiento de software?
 
-1. **Descubrir o Elicitar (Elicitation)**: Utilización de diferentes técnicas para obtener información sobre los requisitos de los stakeholders【36†source】.
+Las actividades asociadas a la ingeniería de requerimientos son esenciales para el proceso de desarrollo de software. Estas actividades incluyen:
+
+1. **Descubrir o Elicitar**: Utilización de diferentes técnicas para obtener información sobre los requisitos de los stakeholders.
 
 ### Desarrollo
 - **Análisis de Requisitos**: Después de la elicitar, los requisitos deben ser analizados para comprender su impacto, viabilidad y priorización.
@@ -32,3 +34,7 @@ Consideremos el desarrollo de un software de contabilidad empresarial:
 - **Análisis de Requisitos**: Evaluación y priorización de los requisitos recopilados.
 - **Documentación de Requisitos**: Registro formal de los requisitos de un sistema.
 - **Validación de Requisitos**: Confirmación de que los requisitos satisfacen las necesidades y expectativas de los usuarios.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20se%20transforma%20una%20necesidad%20del%20usuario%20en%20un%20requerimiento%20de%20software/Evaluador.ipynb)

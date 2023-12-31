@@ -1,3 +1,6 @@
+# Pregunta
+## ¿De qué forma se pueden integrar las opiniones de múltiples stakeholders en el proceso de definición de requerimientos?
+
 Para integrar las opiniones de múltiples stakeholders en el proceso de definición de requerimientos, se pueden emplear varias estrategias y técnicas:
 
 1. **Negociación y Consenso**: Es fundamental negociar entre los distintos participantes para alcanzar un consenso. Los conflictos, que son comunes cuando intervienen diversos individuos con intereses a veces enfrentados, no deben resolverse unilateralmente sino a través de un proceso de (re)negociación. Esto implica encontrar un terreno común y acordar requisitos que satisfagan a todos los stakeholders en la medida de lo posible【88†source】.
@@ -26,3 +29,7 @@ En el desarrollo de un sistema de información para una universidad, se podrían
 ### Glosario
 - **Negociación y Consenso**: Proceso de discusión y acuerdo entre stakeholders para resolver diferencias y alcanzar un entendimiento común.
 - **Brainstorming**: Técnica de generación de ideas en grupo que fomenta la participación activa y la creatividad.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/De%20qu%C3%A9%20forma%20se%20pueden%20integrar%20las%20opiniones%20de%20m%C3%BAltiples%20stakeholders%20en%20el%20proceso%20de%20definici%C3%B3n%20de%20requerimientos/Evaluador.ipynb)

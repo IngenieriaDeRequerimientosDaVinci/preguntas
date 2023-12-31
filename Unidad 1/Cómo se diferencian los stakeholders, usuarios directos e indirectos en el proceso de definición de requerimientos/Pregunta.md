@@ -1,3 +1,5 @@
+# ¿Cómo se diferencian los stakeholders, usuarios directos e indirectos en el proceso de definición de requerimientos?
+
 En el proceso de definición de requerimientos para el desarrollo de software, los términos "stakeholders", "usuarios directos" e "indirectos" tienen significados específicos y roles distintos:
 
 1. **Stakeholders**: Son todas las personas o entidades que pueden verse afectadas por el proyecto o que tienen algo que decir durante su construcción o implantación. Esto incluye no solo a los usuarios del sistema, sino también a personas que tienen interés en el sistema pero no lo utilizarán, como gestores o piratas informáticos, así como instituciones gubernamentales o legales.
@@ -28,3 +30,7 @@ En un proyecto de desarrollo de un sistema de reservas para un hotel:
 - **Stakeholder**: Individuos o entidades que tienen un interés o son afectados por un proyecto.
 - **Usuario Directo**: Persona que interactúa directamente con un sistema o producto.
 - **Usuario Indirecto**: Persona que se ve afectada por el uso de un sistema o producto, aunque no interactúa directamente con él.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20se%20diferencian%20los%20stakeholders%2C%20usuarios%20directos%20e%20indirectos%20en%20el%20proceso%20de%20definici%C3%B3n%20de%20requerimientos/Evaluador.ipynb)

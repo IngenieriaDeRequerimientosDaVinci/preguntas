@@ -1,8 +1,10 @@
+# ¿Cómo se puede gestionar la ambigüedad en la definición inicial de requerimientos?
+
 Para gestionar la ambigüedad en la definición inicial de requerimientos, se pueden seguir estas estrategias:
 
-1. **Proceso Iterativo de Requisitos**: Reconocer que los requisitos pueden definirse inicialmente con cierto grado de ambigüedad y que es normal en las primeras etapas del proyecto. Importante es que en sucesivas revisiones se elimine esta ambigüedad reescribiendo los requisitos. Un requisito no ambiguo de forma individual puede volverse ambiguo al relacionarse con otros, por lo que es esencial revisarlos en el contexto de la especificación completa para identificar y resolver inconsistencias【103†source】.
+1. **Proceso Iterativo de Requisitos**: Reconocer que los requisitos pueden definirse inicialmente con cierto grado de ambigüedad y que es normal en las primeras etapas del proyecto. Importante es que en sucesivas revisiones se elimine esta ambigüedad reescribiendo los requisitos. Un requisito no ambiguo de forma individual puede volverse ambiguo al relacionarse con otros, por lo que es esencial revisarlos en el contexto de la especificación completa para identificar y resolver inconsistencias.
 
-2. **Técnicas de Modelado de Procesos**: Utilizar lenguajes de modelado puede ayudar a solventar problemas de ambigüedad que surgen con el lenguaje natural. Herramientas como plantillas y glosarios, que formalizan la recogida de información y restringen los campos a rellenar, son útiles para clarificar los requisitos. Además, los diccionarios de datos ayudan a definir y aclarar términos y conceptos utilizados en los requisitos【104†source】.
+2. **Técnicas de Modelado de Procesos**: Utilizar lenguajes de modelado puede ayudar a solventar problemas de ambigüedad que surgen con el lenguaje natural. Herramientas como plantillas y glosarios, que formalizan la recogida de información y restringen los campos a rellenar, son útiles para clarificar los requisitos. Además, los diccionarios de datos ayudan a definir y aclarar términos y conceptos utilizados en los requisitos.
 
 ### Desarrollo
 Estas estrategias son esenciales para evitar malentendidos y errores que pueden surgir de la ambigüedad en los requisitos. Un enfoque claro, estructurado y revisable para la definición de requerimientos es crucial para el éxito del proyecto.
@@ -24,3 +26,7 @@ En un proyecto para desarrollar una aplicación de seguimiento de ejercicios, un
 ### Glosario
 - **Proceso Iterativo de Requisitos**: Método de desarrollo de requisitos que implica su revisión y ajuste continuos a lo largo del tiempo.
 - **Modelado de Procesos**: Técnicas que utilizan representaciones gráficas o formales para definir y analizar los procesos y requisitos de un sistema.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20se%20puede%20gestionar%20la%20ambig%C3%BCedad%20en%20la%20definici%C3%B3n%20inicial%20de%20requerimientos/Evaluador.ipynb)

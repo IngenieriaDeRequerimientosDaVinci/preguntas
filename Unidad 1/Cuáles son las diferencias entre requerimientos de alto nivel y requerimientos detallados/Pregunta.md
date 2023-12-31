@@ -1,3 +1,4 @@
+# ¿Cuáles son las diferencias entre requerimientos de alto nivel y requerimientos detallados?
 Las diferencias entre los requerimientos de alto nivel y los requerimientos detallados en proyectos de software son las siguientes:
 
 1. **Nivel de Definición**:
@@ -30,3 +31,6 @@ En un proyecto para desarrollar una aplicación de comercio electrónico, un req
 ### Glosario
 - **Requerimientos de Alto Nivel**: Requerimientos generales que definen los objetivos y el alcance del proyecto.
 - **Requerimientos Detallados**: Requerimientos específicos que detallan las funcionalidades y características técnicas que debe tener el sistema.
+
+### Evaluación
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/Cu%C3%A1les%20son%20las%20diferencias%20entre%20requerimientos%20de%20alto%20nivel%20y%20requerimientos%20detallados/Evaluador.ipynb)

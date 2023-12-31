@@ -1,3 +1,5 @@
+# ¿Cómo se pueden identificar y gestionar los riesgos desde la fase inicial de recolección de requerimientos?
+
 La identificación y gestión de riesgos desde la fase inicial de recolección de requerimientos son cruciales para el éxito de un proyecto de software:
 
 1. **Gestión de Requisitos y Control de Riesgos**: La gestión de requisitos incluye el control y monitoreo de todos los requisitos del producto y del proceso después de ser descubiertos. Esto implica identificar las inconsistencias entre los requisitos y el plan de proyecto, lo cual es una actividad clave para mitigar riesgos. Durante la elicitación de requisitos, es fundamental negociar entre los distintos participantes para obtener una visión común y consensuada de los requisitos, lo cual ayuda a identificar y gestionar posibles conflictos y riesgos desde el inicio【163†source】.
@@ -23,3 +25,7 @@ En un proyecto para el desarrollo de un sistema de gestión hospitalaria, identi
 ### Glosario
 - **Gestión de Requisitos**: Proceso de documentar, analizar, rastrear, priorizar y acordar los requisitos, y luego controlar los cambios en ellos.
 - **Validación de Requisitos**: Proceso de confirmar que los requisitos documentados satisfacen las necesidades y expectativas de los usuarios y stakeholders.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20se%20pueden%20identificar%20y%20gestionar%20los%20riesgos%20desde%20la%20fase%20inicial%20de%20recolecci%C3%B3n%20de%20requerimientos/Evaluador.ipynb)

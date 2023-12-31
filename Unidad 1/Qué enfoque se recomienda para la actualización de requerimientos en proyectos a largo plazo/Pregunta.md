@@ -1,10 +1,13 @@
+# Pregunta
+
+## ¿Qué enfoque se recomienda para la actualización de requerimientos en proyectos a largo plazo?
+
 Para actualizar los requerimientos en proyectos a largo plazo, se recomienda un enfoque flexible y dinámico que tenga en cuenta los siguientes aspectos:
 
-1. **Gestión Continua de Cambios en Requisitos**: A lo largo del ciclo de vida del proyecto, es común que los requisitos cambien al incorporar nuevos, modificar los existentes o incluso eliminar algunos. Estos cambios pueden deberse a una variedad de razones, como el aprendizaje y la comprensión evolutiva de los stakeholders sobre el sistema. Aceptar y gestionar estos cambios es crucial, ya que pueden mejorar la calidad y el grado de aceptación del sistema. Sin embargo, es importante ser consciente de que estos cambios tienen un costo asociado, que puede variar dependiendo de la complejidad de las modificaciones necesarias【177†source】.
+1. **Gestión Continua de Cambios en Requisitos**: A lo largo del ciclo de vida del proyecto, es común que los requisitos cambien al incorporar nuevos, modificar los existentes o incluso eliminar algunos. Estos cambios pueden deberse a una variedad de razones, como el aprendizaje y la comprensión evolutiva de los stakeholders sobre el sistema. Aceptar y gestionar estos cambios es crucial, ya que pueden mejorar la calidad y el grado de aceptación del sistema. Sin embargo, es importante ser consciente de que estos cambios tienen un costo asociado, que puede variar dependiendo de la complejidad de las modificaciones necesarias.
 
-2. **Evaluación y Documentación de Riesgos Asociados a Requisitos**: Es importante identificar y documentar el nivel de riesgo asociado a cada requisito. Esta evaluación debe ser acordada por los miembros del proyecto y puede incluir el estado actual del requisito (en desarrollo, pendiente de negociación, validado, etc.), así como la justificación de su inclusión. Este proceso ayuda a entender las implicaciones de los cambios en los requisitos y a tomar decisiones informadas sobre cómo y cuándo implementarlos【178†source】.
+2. **Evaluación y Documentación de Riesgos Asociados a Requisitos**: Es importante identificar y documentar el nivel de riesgo asociado a cada requisito. Esta evaluación debe ser acordada por los miembros del proyecto y puede incluir el estado actual del requisito (en desarrollo, pendiente de negociación, validado, etc.), así como la justificación de su inclusión. Este proceso ayuda a entender las implicaciones de los cambios en los requisitos y a tomar decisiones informadas sobre cómo y cuándo implementarlos.
 
-### Desarrollo
 Este enfoque permite una actualización de requerimientos que es sensible a los cambios en el entorno del proyecto y a las necesidades de los stakeholders, mientras se mantienen bajo control los riesgos y costos asociados.
 
 ### Mindmap

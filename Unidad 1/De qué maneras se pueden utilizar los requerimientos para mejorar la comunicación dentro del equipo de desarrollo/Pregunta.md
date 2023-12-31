@@ -1,3 +1,7 @@
+# Pregunta
+
+## ¿De qué maneras se pueden utilizar los requerimientos para mejorar la comunicación dentro del equipo de desarrollo?
+
 Los requerimientos pueden utilizarse para mejorar la comunicación dentro del equipo de desarrollo de varias maneras:
 
 1. **Facilitar el Descubrimiento y la Elicitación de Requisitos**: La elicitación de requisitos no es solo una actividad técnica, sino también humana. Implica identificar a los stakeholders y establecer relaciones iniciales con ellos. Este proceso debe ser colaborativo, no pasivo, y se centra en cómo los desarrolladores descubren y recopilan los requisitos. La comunicación efectiva en esta etapa es crucial, ya que a menudo los usuarios pueden tener dificultades para describir sus tareas o necesidades de manera clara【142†source】.
@@ -24,3 +28,7 @@ En un proyecto para desarrollar un nuevo sistema de gestión de inventario, el p
 ### Glosario
 - **Elicitación de Requisitos**: Proceso de recolectar los requisitos de un sistema a través de la consulta con los stakeholders.
 - **Resolución de Conflictos**: Habilidades y técnicas utilizadas para resolver desacuerdos y llegar a un consenso entre partes con opiniones diferentes.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/De%20qu%C3%A9%20maneras%20se%20pueden%20utilizar%20los%20requerimientos%20para%20mejorar%20la%20comunicaci%C3%B3n%20dentro%20del%20equipo%20de%20desarrollo/Evaluador.ipynb)

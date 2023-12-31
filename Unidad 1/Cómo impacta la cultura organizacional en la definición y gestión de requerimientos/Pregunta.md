@@ -1,4 +1,5 @@
 # ¿Cómo impacta la cultura organizacional en la definición y gestión de requerimientos?
+
 La cultura organizacional tiene un impacto significativo en la definición y gestión de requerimientos en proyectos de software. Algunos aspectos clave son:
 
 1. **Intereses y Conflictos entre Stakeholders**: En una organización, diferentes individuos pueden tener intereses distintos e incluso enfrentados. Estos conflictos deben abordarse a través de un proceso de (re)negociación para consensuar los requisitos entre clientes y usuarios. La forma en que se manejan estos conflictos está fuertemente influenciada por la cultura organizacional【82†source】.
@@ -28,3 +29,7 @@ En una empresa de software con una cultura organizacional abierta y colaborativa
 - **Elicitación de Requerimientos**: Proceso de recolectar los requisitos de un sistema a través de la consulta con los stakeholders.
 - **Negociación de Requerimientos**: Proceso de llegar a un acuerdo común entre los stakeholders sobre los requisitos del sistema.
 - **Gestión de Requisitos**: Proceso de documentar, analizar, trazar, priorizar y acordar los requisitos, y luego controlar los cambios y comunicarlos a los stakeholders relevantes.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20impacta%20la%20cultura%20organizacional%20en%20la%20definici%C3%B3n%20y%20gesti%C3%B3n%20de%20requerimientos/Evaluador.ipynb)

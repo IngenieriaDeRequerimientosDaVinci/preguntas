@@ -1,12 +1,13 @@
+# ¿Cuáles son los desafíos comunes al definir requerimientos en proyectos de software?
+
 Los desafíos comunes al definir requerimientos en proyectos de software son variados y significativos:
 
-1. **Correcta Identificación y Gestión de Requisitos**: Los proyectos a menudo enfrentan desafíos debido a la incorrecta identificación y gestión de los requisitos. Estos problemas pueden llevar a cancelaciones de proyectos, desviaciones en plazos y presupuestos【42†source】.
+1. **Correcta Identificación y Gestión de Requisitos**: Los proyectos a menudo enfrentan desafíos debido a la incorrecta identificación y gestión de los requisitos. Estos problemas pueden llevar a cancelaciones de proyectos, desviaciones en plazos y presupuestos.
 
-2. **Comprensión de las Necesidades del Usuario**: A menudo los usuarios no saben exactamente lo que necesitan, lo que requiere un esfuerzo considerable para descubrir y definir los requisitos. Esto implica abrirse a nuevas ideas, aplicar esfuerzo creativo, trabajar en equipo y hacer preguntas que guíen la búsqueda【43†source】.
+2. **Comprensión de las Necesidades del Usuario**: A menudo los usuarios no saben exactamente lo que necesitan, lo que requiere un esfuerzo considerable para descubrir y definir los requisitos. Esto implica abrirse a nuevas ideas, aplicar esfuerzo creativo, trabajar en equipo y hacer preguntas que guíen la búsqueda.
 
-3. **Comunicación Efectiva**: La comunicación efectiva entre desarrolladores y usuarios es crucial. Los usuarios deben usar su propio vocabulario para expresar las necesidades del negocio, y los desarrolladores deben aprender sobre el negocio y sus objetivos. Además, se espera que los desarrolladores escriban especificaciones o documentos de los requisitos del software, lo cual es un entregable clave de la ingeniería de requerimientos【44†source】.
+3. **Comunicación Efectiva**: La comunicación efectiva entre desarrolladores y usuarios es crucial. Los usuarios deben usar su propio vocabulario para expresar las necesidades del negocio, y los desarrolladores deben aprender sobre el negocio y sus objetivos. Además, se espera que los desarrolladores escriban especificaciones o documentos de los requisitos del software, lo cual es un entregable clave de la ingeniería de requerimientos.
 
-### Desarrollo
 Estos desafíos subrayan la importancia de una colaboración efectiva y de procesos bien establecidos en la ingeniería de requerimientos. La capacidad de adaptarse a las necesidades cambiantes y de comunicar eficazmente estas necesidades entre los distintos stakeholders es fundamental para el éxito del proyecto.
 
 ### Mindmap
@@ -28,3 +29,7 @@ En un proyecto para desarrollar una aplicación de comercio electrónico, un des
 - **Identificación de Requisitos**: Proceso de determinar las necesidades y expectativas de los stakeholders de un proyecto.
 - **Gestión de Requisitos**: Control y seguimiento de los requisitos durante todo el ciclo de vida del proyecto.
 - **Comunicación Efectiva**: Habilidad de intercambiar información de manera clara y comprensible entre todas las partes interesadas.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/Cu%C3%A1les%20son%20los%20desaf%C3%ADos%20comunes%20al%20definir%20requerimientos%20en%20proyectos%20de%20software/Evaluador.ipynb)

@@ -1,8 +1,11 @@
+# Pregunta
+
+## ¿Qué es la ingeniería de requerimientos y cuáles son sus etapas principales?
+
 La ingeniería de requerimientos (InRe) es un área clave en el desarrollo de software que incluye todas las actividades del ciclo de vida relacionadas con la identificación, análisis, documentación y validación de los requerimientos del sistema. Las etapas principales de la ingeniería de requerimientos son:
 
-1. **Descubrir o Elicitar (Elicitation)**: En esta etapa se utilizan diferentes técnicas para obtener información sobre los requisitos de los stakeholders【22†source】.
+- **Descubrir o Elicitar (Elicitation)**: En esta etapa se utilizan diferentes técnicas para obtener información sobre los requisitos de los stakeholders.
 
-### Desarrollo
 - **Análisis de Requisitos**: Tras su descubrimiento, los requisitos se analizan para entender su impacto y prioridad.
 - **Documentación de Requisitos**: Los requisitos identificados y analizados se documentan claramente.
 - **Validación de Requisitos**: Se verifica que los requisitos documentados cumplan con las necesidades de los usuarios y sean coherentes con los objetivos del sistema.

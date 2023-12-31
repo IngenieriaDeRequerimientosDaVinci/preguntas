@@ -22,3 +22,7 @@ En un proyecto para desarrollar una aplicación de comercio electrónico, una co
 ### Glosario
 - **Gestión de Requerimientos**: Proceso de documentar, analizar, rastrear, priorizar y acordar los requisitos de un proyecto, y luego controlar los cambios en ellos.
 - **Estimación de Costos y Tiempos**: Proceso de predecir los recursos y el tiempo necesarios para completar un proyecto de software.
+
+### Evaluación
+
+[Evaluación](https://colab.research.google.com/github/IngenieriaDeRequerimientosDaVinci/preguntas/blob/main/Unidad%201/C%C3%B3mo%20afecta%20la%20comprensi%C3%B3n%20de%20los%20requerimientos%20a%20la%20estimaci%C3%B3n%20de%20costos%20y%20tiempos%20en%20un%20proyecto/Evaluador.ipynb)

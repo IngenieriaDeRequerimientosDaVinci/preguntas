@@ -1,10 +1,14 @@
+# Pregunta
+
+## ¿Qué herramientas o técnicas se utilizan comúnmente en la ingeniería de requerimientos?
+
 En la ingeniería de requerimientos, se utilizan diversas herramientas y técnicas para facilitar el proceso de definición, gestión y documentación de los requisitos en proyectos de software:
 
-1. **Herramientas de Gestión de Requisitos**: Se utilizan formularios y plantillas para definir las especificaciones de los requisitos. Estas herramientas facilitan la recolección de información y permiten obtener distintas vistas de los requisitos, mejorando aspectos como la trazabilidad【58†source】.
+1. **Herramientas de Gestión de Requisitos**: Se utilizan formularios y plantillas para definir las especificaciones de los requisitos. Estas herramientas facilitan la recolección de información y permiten obtener distintas vistas de los requisitos, mejorando aspectos como la trazabilidad.
 
-2. **Técnicas Grupales**: Entre ellas, el brainstorming o tormenta de ideas es una técnica común. Se lleva a cabo en reuniones de trabajo con los ingenieros de requisitos y un grupo de stakeholders, con el objetivo de generar ideas en un ambiente libre de críticas【59†source】.
+2. **Técnicas Grupales**: Entre ellas, el brainstorming o tormenta de ideas es una técnica común. Se lleva a cabo en reuniones de trabajo con los ingenieros de requisitos y un grupo de stakeholders, con el objetivo de generar ideas en un ambiente libre de críticas.
 
-3. **Uso de Lenguajes de Modelado y Lenguaje Natural**: Se emplean diagramas UML, como los de casos de uso, clases, actividades y estados, para representar los diferentes tipos y dimensiones de los requisitos. A su vez, se complementan con el uso de lenguaje natural para documentar los requisitos【60†source】.
+3. **Uso de Lenguajes de Modelado y Lenguaje Natural**: Se emplean diagramas UML, como los de casos de uso, clases, actividades y estados, para representar los diferentes tipos y dimensiones de los requisitos. A su vez, se complementan con el uso de lenguaje natural para documentar los requisitos.
 
 ### Desarrollo
 Estas herramientas y técnicas son fundamentales para asegurar que los requisitos sean bien entendidos, documentados y gestionados a lo largo del ciclo de vida del proyecto de software.
